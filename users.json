@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "username": "ironpony42",
+    "password": "3c6977f8d63f3a8a1b9f4e4692f74f201c5c6a23b21de3b78e9b3dfee713e67e",
+    "role": "user"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "username": "fluxcapacitor",
+    "password": "8b7d1a3187ab355dc31bc683aaa71ab5ed217940c12196a9cd5f4ca984babfa4",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Nguyen",
+    "username": "browncoat88",
+    "password": "be7e23e5d1430fa8e9c7ab292f6ed0d167e6dab7b692ba8001bb95817ed3f5f3",
+    "role": "manager"
+  },
+  {
+    "id": 4,
+    "name": "Dana Patel",
+    "username": "kessel_runner",
+    "password": "42c1d22ecd7e06a112b92a77bc0e7a7d9d16a45f6e5d5b1f2237f0fa68f6b95c",
+    "role": "manager"
+  },
+  {
+    "id": 5,
+    "name": "Evelyn Wang",
+    "username": "bluebox_tardis",
+    "password": "379e8cb978c7f001b0e5f49f2f071d7b3cd6c45289e6ff2d542ab576afa6d1b1",
+    "role": "user"
+  },
+  {
+    "id": 6,
+    "name": "Frank Brown",
+    "username": "vault_dweller",
+    "password": "9f861b56c65b92e7869dbd6dc4c7d0a9cf5dd0b29af5e78d1a1c3e41003771bb",
+    "role": "user"
+  },
+  {
+    "id": 7,
+    "name": "Grace Kim",
+    "username": "nightwatcher7",
+    "password": "b437feb4939f3bc6f457f7dc0507c6c5097f2f635a9ba8d1c76eb0fd2e6c2a83",
+    "role": "manager"
+  },
+  {
+    "id": 8,
+    "name": "Henry Lopez",
+    "username": "redcomet",
+    "password": "0d9ee9c2668987c8f876c1c81d0b8772572476eab9018aa1eb00a3ddc0f94fbf",
+    "role": "user"
+  },
+  {
+    "id": 9,
+    "name": "Irene Garcia",
+    "username": "wanderlust99",
+    "password": "e0f3d565cd3378f7f2d4ce1e7f7a7f9fb089db1221e748fee22b8feeb1c3893a",
+    "role": "manager"
+  },
+  {
+    "id": 10,
+    "name": "Jack Stone",
+    "username": "gungan_sub",
+    "password": "a905d4409ee6552d3de7c77b1b48ac0c663fdba769e23f8ae0b141e58dfa35b4",
+    "role": "user"
+  },
+  {
+    "id": 11,
+    "name": "Kelly O'Brien",
+    "username": "ringbearer47",
+    "password": "718a1b7ebee3f87a5c7ec64f2d808d55453f3c15246267aa51cc2647bcea8a43",
+    "role": "manager"
+  },
+  {
+    "id": 12,
+    "name": "Leo Martinez",
+    "username": "ravenclaw27",
+    "password": "4fc82b26aecb47d2868c4efbe3581732e7dcf07c3b9a7cd3a72cef0f3cfb9d73",
+    "role": "user"
+  },
+  {
+    "id": 13,
+    "name": "Maya Singh",
+    "username": "cloudstrife",
+    "password": "27c6ee5bdb746327bec8bab0f5c70e48704152c1bb3df2475a0d2efc2e8a23c3",
+    "role": "user"
+  },
+  {
+    "id": 14,
+    "name": "Nina Zhao",
+    "username": "mystique",
+    "password": "4aa3b58c8450b2f18ed144311518193018441e268bf1311e0f4d15f4dfbdae82",
+    "role": "manager"
+  },
+  {
+    "id": 15,
+    "name": "Evelyn Drake",
+    "username": "neo_one",
+    "password": "2d711642b726b04401627ca9fbac32f5c0e3ba37e7578e21b4e7d8d0301684e9",
+    "role": "admin"
+  }
+]

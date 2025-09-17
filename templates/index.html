@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>LZ Corp</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  <header class="navbar">
+    <nav>
+      <a href="/">
+        <div class="logo">LZ Corp</div>
+      </a>
+    </nav>
+    <nav>
+      {% if session.get("username") %}
+      <a href="/logout">Logout</a>
+      {% else %}
+      <a href="/login">Sign In</a>
+      {% endif %}
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Your Data. Our Priority.</h1>
+    <p>Enterprise-grade solutions empowering modern organizations.</p>
+    <a class="btn" href="/login">Get Started</a>
+  </section>
+</body>
+
+</html>
