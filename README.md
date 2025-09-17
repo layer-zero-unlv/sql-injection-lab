@@ -126,7 +126,7 @@ After practicing with this application, you should understand:
 
 ```bash
 # Clone, setup, and run
-git clone <repo-url> && cd sql-injection-practice
+git clone https://github.com/layer-zero-unlv/sql-injection-lab.git && cd sql-injection-practice
 pip install -r requirements.txt
 python create_db.py
 python app.py
@@ -149,6 +149,4 @@ Then visit `http://localhost:5000` to begin practicing!
 
 ---
 
-**Created by Layer Zero UNLV Cybersecurity Club** 🛡️
-
-Happy hacking! 🔓
+**Created by Layer Zero**
