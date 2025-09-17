@@ -147,6 +147,12 @@ Then visit `http://localhost:5000` to begin practicing!
 - Always practice ethical hacking and responsible disclosure
 - In real applications, always use parameterized queries and input validation
 
+## 📄 License & Liability
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+**Liability Disclaimer:** Layer Zero UNLV and its members are not liable for any misuse of this educational tool. Users are solely responsible for ensuring their activities comply with applicable laws and regulations. This software is provided "as is" without warranty of any kind.
+
 ---
 
 **Created by Layer Zero**
